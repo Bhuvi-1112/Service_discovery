@@ -43,7 +43,7 @@ Ryu does not work with the default Python 3.10 on Ubuntu 22.04 (eventlet crashes
     ~/ryu-env/bin/pip install "eventlet==0.30.2" ryu
     ~/ryu-env/bin/pip install --force-reinstall "eventlet==0.30.2"
 
-(Do not use `./setup.sh` or `./run_controller.sh`, they install and start Ryu with the system Python.)
+
 
 ## Run
 
